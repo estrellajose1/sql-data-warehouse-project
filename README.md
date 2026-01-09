@@ -79,3 +79,14 @@ For more details, refer to docs/requirements.md.
 📂 Repository Structure
 
 <img width="789" height="479" alt="image" src="https://github.com/user-attachments/assets/c7a90911-7705-4845-a18a-fde7ebfd31da" />
+__________________________________________________________________________
+
+
+🌟 About Me
+_________________________________________________________________________
+
+I’m Jose Estrella, a Senior Data Integration Analyst. I’m a data professional passionate about building reliable data solutions and continuously growing my skills in data engineering and analytics.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+https://www.linkedin.com/in/jose-estrella-/
